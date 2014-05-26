@@ -19,6 +19,7 @@ Tugas Presentasi
 
 5. Setiap mengerjakan, jangan lupa add
 	caranya :
+
 		- git add .
 		
 	- tanda . itu buat add sekaligus semuanya

@@ -4,13 +4,13 @@ TKPPL
 Tugas Presentasi
 --------------------------------------------------------------------------------------------------------------------------------------------
 1. Clone repository git TKPPL ini dulu ke repo masing-masing, caranya:
-	- buka cmd dulu
+	- buka Git Bash
 	- pergi ke folder tujuan dulu
 	- lalu ketikkan :
 		
 			git clone https://github.com/sherlyfebrianti96/TKPPL.git
 		
-2. buka git bash, lalu ketikkan :
+2. Habis itu ketikkan :
 	
 		git config user.name 'UsernameGitMasingMasing'
 		git config user.email 'EmailYangDipakaiPasBuatGit'

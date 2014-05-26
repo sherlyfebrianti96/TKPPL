@@ -8,11 +8,12 @@ Tugas Presentasi
 	- pergi ke folder tujuan dulu
 	- lalu ketikkan :
 		
-		git clone https://github.com/sherlyfebrianti96/TKPPL.git
+			git clone https://github.com/sherlyfebrianti96/TKPPL.git
 		
 2. buka git bash, lalu ketikkan :
 	
 	git config user.name 'UsernameGitMasingMasing'
+
 	git config user.email 'EmailYangDipakaiPasBuatGit'
 	
 3. Selesai memindahkan repo TKPPL ini ke repo kalian masing-masing
@@ -41,5 +42,5 @@ Tugas Presentasi
 	
 	- cara pull : 
 		
-		git pull origin master
+			git pull origin master
 		

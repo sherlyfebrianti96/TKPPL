@@ -7,11 +7,13 @@ Tugas Presentasi
 	- buka cmd dulu
 	- pergi ke folder tujuan dulu
 	- lalu ketikkan :
-		- git clone https://github.com/sherlyfebrianti96/TKPPL.git
+		
+		git clone https://github.com/sherlyfebrianti96/TKPPL.git
 		
 2. buka git bash, lalu ketikkan :
-	- git config user.name 'UsernameGitMasingMasing'
-	- git config user.email 'EmailYangDipakaiPasBuatGit'
+	
+	git config user.name 'UsernameGitMasingMasing'
+	git config user.email 'EmailYangDipakaiPasBuatGit'
 	
 3. Selesai memindahkan repo TKPPL ini ke repo kalian masing-masing
 
@@ -25,7 +27,8 @@ Tugas Presentasi
 	- tanda . itu buat add sekaligus semuanya
 	
 6. Setelah itu di commit
-	- git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
+	
+	git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
 	
 7. lalu di push, caranya : 
 	
@@ -37,5 +40,6 @@ Tugas Presentasi
 	- KARENA HARUS PAKAI PROSES MERGE, ITU RIBET
 	
 	- cara pull : 
-		- git pull origin master
+		
+		git pull origin master
 		

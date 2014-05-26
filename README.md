@@ -20,7 +20,7 @@ Tugas Presentasi
 5. Setiap mengerjakan, jangan lupa add
 	caranya :
 
-		- git add .
+		git add .
 		
 	- tanda . itu buat add sekaligus semuanya
 	
@@ -28,7 +28,9 @@ Tugas Presentasi
 	- git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
 	
 7. lalu di push, caranya : 
-	- git push origin master
+	
+		git push origin master
+
 	
 8. YANG PALING PENTING :
 	- JANGAN LUPA PULL DULU SEBELUM MENGERJAKAN, UTK MENGHINDARI BENTROK

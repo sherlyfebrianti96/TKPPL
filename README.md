@@ -10,7 +10,9 @@ Tugas Presentasi
 		git clone https://github.com/sherlyfebrianti96/TKPPL.git
 		
 2. buka git bash, lalu ketikkan :
+3. \n
 	git config user.name 'UsernameGitMasingMasing'
+\n
 	git config user.email 'EmailYangDipakaiPasBuatGit'
 	
 3. Selesai memindahkan repo TKPPL ini ke repo kalian masing-masing

@@ -2,6 +2,7 @@ TKPPL
 =====
 
 Tugas Presentasi
+--------------------------------------------------------------------------------------------------------------------------------------------
 1. Clone repository git TKPPL ini dulu ke repo masing-masing, caranya:
 	- buka cmd dulu
 	- pergi ke folder tujuan dulu

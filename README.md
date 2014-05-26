@@ -13,7 +13,6 @@ Tugas Presentasi
 2. buka git bash, lalu ketikkan :
 	
 		git config user.name 'UsernameGitMasingMasing'
-	
 		git config user.email 'EmailYangDipakaiPasBuatGit'
 	
 3. Selesai memindahkan repo TKPPL ini ke repo kalian masing-masing
@@ -29,7 +28,7 @@ Tugas Presentasi
 	
 6. Setelah itu di commit
 	
-	git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
+		git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
 	
 7. lalu di push, caranya : 
 	

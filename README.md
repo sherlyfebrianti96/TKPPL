@@ -1,45 +1,17 @@
-TKPPL
-=====
+# Mac Air
+> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
-Tugas Presentasi
---------------------------------------------------------------------------------------------------------------------------------------------
-1. Clone repository git TKPPL ini dulu ke repo masing-masing, caranya:
-	- buka Git Bash
-	- pergi ke folder tujuan dulu
-	- lalu ketikkan :
-		
-			git clone https://github.com/sherlyfebrianti96/TKPPL.git
-		
-2. Habis itu ketikkan :
-	
-		git config user.name 'UsernameGitMasingMasing'
-		git config user.email 'EmailYangDipakaiPasBuatGit'
-	
-3. Selesai memindahkan repo TKPPL ini ke repo kalian masing-masing
+## View slides locally
 
-4. jalankan Yo BeSpoke, hbs itu kerjakan
+First, ensure you have the following installed:
 
-5. Setiap mengerjakan, jangan lupa add
-	caranya :
+1. [Node.js](http://nodejs.org)
+2. [Bower](http://bower.io): `$ npm install -g bower`
+3. [Grunt](http://gruntjs.com): `$ npm install -g grunt-cli`
 
-		git add .
-		
-	- tanda . itu buat add sekaligus semuanya
-	
-6. Setelah itu di commit
-	
-		git commit -m 'pesan yang mau di pakai,, tarok di dalam tanda kutip ini'
-	
-7. lalu di push, caranya : 
-	
-		git push origin master
+Then, install dependencies and run the preview server:
 
-	
-8. YANG PALING PENTING :
-	- JANGAN LUPA PULL DULU SEBELUM MENGERJAKAN, UTK MENGHINDARI BENTROK
-	- KARENA HARUS PAKAI PROSES MERGE, ITU RIBET
-	
-	- cara pull : 
-		
-			git pull origin master
-		
+```bash
+$ npm install && bower install
+$ grunt server
+```

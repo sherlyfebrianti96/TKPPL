@@ -1,0 +1,60 @@
+**********************************************************************
+--------------------------------------------------
+General Information
+--------------------------------------------------
+Nama Kelompok : MP Team
+Judul Presentasi : Mac Pro
+Alamat Github : https://github.com/sherlyfebrianti96/TKPPL
+Alamat Trello : https://trello.com/b/GjyA31X2/tkppl
+
+Anggota 1
+~~~~~~~~~~
+	Nama	: Sherly Febrianti
+	NIM	: 12.111.0120
+
+Anggota 2
+~~~~~~~~~~
+	Nama	: Suwardy
+	NIM	: 12.111.0553
+
+Anggota 3
+~~~~~~~~~~
+	Nama	: Widya Putra
+	NIM	: 12.111.
+
+Anggota 4
+~~~~~~~~~~
+	Nama	: Katarina Y.V Zebua
+	NIM	: 12.111.0146
+
+
+**********************************************************************
+------------------------------
+	Sprint
+------------------------------
+
+Sprint 1	26/5 - 28/5
+~~~~~~~~
+	Scrum Master : Sherly Febrianti (12.111.0120)
+
+
+
+Sprint 2	29/5 - 31/5
+~~~~~~~~
+	Scrum Master : Suwardy (12.111.0553)
+
+
+
+Sprint 3	2/6 - 4/6
+~~~~~~~~
+	Scrum Master : Widya Putra (12.111.)
+
+
+
+Sprint 4	5/6 - 7/6
+~~~~~~~~
+	Scrum Master : Katarina Y.V Zebua (12.111.0146)
+
+
+
+**********************************************************************

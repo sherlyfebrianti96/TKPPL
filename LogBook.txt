@@ -66,23 +66,25 @@ Sprint 4	5/6 - 7/6
 26/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
+	1.membuat repo di github buat kelompok.
+	2.membuat account dan list trello.
 
 
 `Suwardy (12.111.0383) :
-	1.
-	2.
+	1.install source tree dan buat account github.
+	2.melakukan clone ke komputer masing-masing.
 
 
 `Widya Putra (12.111.0553) :
-	1.
-	2.
+	1.install source tree dan buat account github.
+	2.melakukan clone ke komputer masing-masing.
+	
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
-	2.
+	1.install source tree dan buat account github.
+	2.melakukan clone ke komputer masing-masing.
+	
 
 
 
@@ -97,9 +99,9 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
-	2.
-	3.
+	1.mencari bahan buat presentasi.
+	2.pembuatan cover presentasi.
+	3.pembuatan slide naam kelompok.
 
 
 `Widya Putra (12.111.0553) :
@@ -126,9 +128,8 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
-	2.
-	3.
+	1.melakukan edit terhadap cover dan nama kelompok
+	2.membuat slide cover osx mavericks.
 
 
 `Widya Putra (12.111.0553) :

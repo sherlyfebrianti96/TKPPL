@@ -66,24 +66,22 @@ Sprint 4	5/6 - 7/6
 26/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.membuat repo di github buat kelompok.
-	2.membuat account dan list trello.
-
+	1. Install source tree dan buat account github.
+	2. Tidak ada kendala.
 
 `Suwardy (12.111.0383) :
-	1.install source tree dan buat account github.
-	2.melakukan clone ke komputer masing-masing.
+	1. Install source tree dan buat account github.
+	2. Saya ad kendala tidak bisa clone ke komp saya
 
 
 `Widya Putra (12.111.0553) :
-	1.install source tree dan buat account github.
-	2.melakukan clone ke komputer masing-masing.
-	
+	1. Install source tree dan buat account github.
+	2. Saya ad kendala tidak bisa clone ke komp saya	
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.install source tree dan buat account github.
-	2.melakukan clone ke komputer masing-masing.
+	1. Install source tree dan buat account github.
+	2. Saya ad kendala tidak bisa clone ke komp saya
 	
 
 
@@ -93,27 +91,25 @@ Sprint 4	5/6 - 7/6
 27/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
-	3.
+	1. Semalam saya melakukan instal aplikasi dan cari bahan presentasi.
+	2. Hari ini saya membuat log book.
+	3. Tidak ada kendala
 
 
 `Suwardy (12.111.0383) :
-	1.mencari bahan buat presentasi.
-	2.pembuatan cover presentasi.
-	3.pembuatan slide naam kelompok.
-
+	1. Semalam saya melakukan instal aplikasi dan cari bahan presentasi.
+	2. Hari ini membuat slide cover logo dan slide nama kelompok.
 
 `Widya Putra (12.111.0553) :
-	1.
-	2.
-	3.
+	1. Semalam saya melakukan instal aplikasi dan cari bahan presentasi.
+	2. Hari ini saya membuat slide tentang pengertian Mac Pro. 
+	3. Tidak ada kendala
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
-	2.
-	3.
+	1. Semalam saya melakukan instal aplikasi dan cari bahan presentasi.
+	2  Hari ini says membuat melakukan cloning ke laptop saya
+	3. Saya ada kendala di account github bermasalah dan buat baru account
 
 
 
@@ -122,26 +118,29 @@ Sprint 4	5/6 - 7/6
 28/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
-	3.
+	1. Semalam says membuat log book.
+	2. Hari ini saya mencari bahan presentasi.
+	3. Tidak ada kendala
+
 
 
 `Suwardy (12.111.0383) :
-	1.melakukan edit terhadap cover dan nama kelompok
-	2.membuat slide cover osx mavericks.
-
+	1. Semalam saya membuat slide cover logo dan slide nama kelompok.
+	2. Hari ini saya membuat slide cover os x mavericks.
+	3. Tidak ada kendala
 
 `Widya Putra (12.111.0553) :
-	1.
-	2.
-	3.
+	1. Semalam saya membuat slide tenting pengertian mac pro.
+	2. Hari ini saya membuat slide presentasi tentang fitur baru di mac pro.
+	3. Tidak ada kendala
+
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
-	2.
-	3.
+	1. Semalam saya melakukan cloning ke laptop saya.
+	2. Hari ini membuat presentasi slide tentang kekurangan mac pro.
+	3. Tidak ada kendala
+
 
 
 
@@ -150,26 +149,26 @@ Sprint 4	5/6 - 7/6
 29/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
+	1.semalam saya mencari bahan presentasi.
+	2.hari ini saya melakukan pembuatan slide kelebihan mac pro.
 	3.
 
 
 `Suwardy (12.111.0383) :
-	1.
-	2.
+	1.semalam saya melakukan pembuatan cover osx maverick
+	2.hari ini saya melakukan pembuatan slide pengertian os x maverick
 	3.
 
 
 `Widya Putra (12.111.0553) :
-	1.
-	2.
+	1.semalam saya membuat slide presentasi tentang fitur baru di mac pro.
+	2.hari ini saya membuat penambahan slide sebelumnya
 	3.
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
-	2.
+	1.semalam saya membuat slide presentasi tentang kekurangan mac pro.
+	2.hari ini saya membuat slide harga mac pro
 	3.
 
 

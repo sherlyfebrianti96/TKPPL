@@ -191,7 +191,7 @@ Sprint 4	5/6 - 7/6
 
 `Widya Putra (12.111.0553) :
 	1. Semalam saya membuat penambahan slide sebelumnya
-	2. Hari ini says membuat slide pengertian Thunderbolt
+	2. Hari ini saya membuat slide pengertian Thunderbolt
 	3.
 
 
@@ -213,8 +213,8 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
-	2.
+	1.Update tabel harga
+	2.Tambah slide spesifikasi mac pro
 	3.
 
 
@@ -225,7 +225,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Tambah slide tabel harga mac pro
 	2.
 	3.
 
@@ -242,19 +242,19 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
+	1.Update slide spesifikasi 
 	2.
 	3.
 
 
 `Widya Putra (12.111.0553) :
-	1.
-	2.
+	1.Edit posisi slide dan tambah sedikit keterangan
+	2.Mempelajari bahan presentasi
 	3.
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Tambah slide resolusi 4K
 	2.
 	3.
 

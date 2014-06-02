@@ -151,7 +151,7 @@ Sprint 4	5/6 - 7/6
 `Sherly Febrianti (12.111.0120) :
 	1.semalam saya mencari bahan presentasi.
 	2.hari ini saya melakukan pembuatan slide kelebihan mac pro.
-	3.
+	3.Tidak ada kendala
 
 
 `Suwardy (12.111.0383) :
@@ -179,8 +179,8 @@ Sprint 4	5/6 - 7/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
 	1.Semalam saya melakukan pembuatan slide kelebihan mac pro.
-	2. Hari ini saya membuat slide tenting Memory Mac Pro
-	3.
+	2. Hari ini saya membuat slide tentang Memory Mac Pro
+	3. Tidak ada kendala
 
 
 `Suwardy (12.111.0383) :
@@ -207,9 +207,9 @@ Sprint 4	5/6 - 7/6
 31/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
-	3.
+	1.Semalam saya membuat slide kekurangan mac pro
+	2.Hari ini saya mencari bahan untuk tambahan slide
+	3.Kendala yang saya hadapi: belum ada
 
 
 `Suwardy (12.111.0383) :
@@ -236,9 +236,9 @@ Sprint 4	5/6 - 7/6
 2/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
-	3.
+	1.Kemarin saya mencari bahan untuk tambahan referensi slide
+	2.Hari ini saya mengedit slide Kelebihan Mac Pro
+	3.Tidak ada kendala
 
 
 `Suwardy (12.111.0383) :

@@ -271,13 +271,13 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
+	1.Tambah slide spesifikasi (lanjutan)
 	2.
 	3.
 
 
 `Widya Putra (12.111.0553) :
-	1.
+	1.Tambah slide processor
 	2.
 	3.
 

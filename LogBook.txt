@@ -300,7 +300,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
+	1.Tambah slide Memory
 	2.
 	3.
 
@@ -312,7 +312,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Edit slide resolusi 4K
 	2.
 	3.
 

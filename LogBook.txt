@@ -300,7 +300,11 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
+<<<<<<< HEAD
 	1.Menambah slide Spesifikasi
+=======
+	1.Tambah slide Memory
+>>>>>>> f08a2c0044109bd75b89fc69705cdf99c6745211
 	2.
 	3.
 
@@ -312,7 +316,11 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
+<<<<<<< HEAD
 	1.Menambah slide Hard Drivers
+=======
+	1.Edit slide resolusi 4K
+>>>>>>> f08a2c0044109bd75b89fc69705cdf99c6745211
 	2.
 	3.
 

@@ -108,7 +108,7 @@ Sprint 4	5/6 - 7/6
 
 `Katarina Y.V Zebua (12.111.0146) :
 	1. Semalam saya melakukan instal aplikasi dan cari bahan presentasi.
-	2  Hari ini says membuat melakukan cloning ke laptop saya
+	2  Hari ini saya membuat melakukan cloning ke laptop saya
 	3. Saya ada kendala di account github bermasalah dan buat baru account
 
 
@@ -118,7 +118,7 @@ Sprint 4	5/6 - 7/6
 28/5
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1. Semalam says membuat log book.
+	1. Semalam saya membuat log book.
 	2. Hari ini saya mencari bahan presentasi.
 	3. Tidak ada kendala
 
@@ -283,7 +283,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Menambah/Melanjutkan slide Resolusi 4K
 	2.
 	3.
 
@@ -300,7 +300,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Suwardy (12.111.0383) :
-	1.
+	1.Menambah slide Spesifikasi
 	2.
 	3.
 
@@ -312,7 +312,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Menambah slide Hard Drivers
 	2.
 	3.
 

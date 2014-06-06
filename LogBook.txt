@@ -265,8 +265,8 @@ Sprint 4	5/6 - 7/6
 3/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
+	1.Kemarin saya mencari bahan tambahan referensi
+	2.Hari ini saya menghilang
 	3.
 
 
@@ -294,8 +294,8 @@ Sprint 4	5/6 - 7/6
 4/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
+	1.Kemarin Saya menghilang
+	2.Dan hari ini pun saya menghilang lagi
 	3.
 
 
@@ -323,8 +323,8 @@ Sprint 4	5/6 - 7/6
 5/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.
-	2.
+	1.kemarin selama 2 hari saya menghilang
+	2.Dan hari ini saya menghilang lagi untuk mencari desain slide
 	3.
 
 

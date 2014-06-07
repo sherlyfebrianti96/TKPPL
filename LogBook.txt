@@ -354,11 +354,10 @@ Sprint 4	5/6 - 7/6
 `Sherly Febrianti (12.111.0120) :
 	1.Kemarin saya sudah menghilang selama 3 hari
 	2.Hari ini saya mengedit desain slide nya
-	3.Tidak ada kendala
-
+	3.
 
 `Suwardy (12.111.0383) :
-	1.
+	1.Menambah slide Mail Drop
 	2.
 	3.
 
@@ -370,7 +369,7 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
+	1.Saya ada Kendala grunt server ga jalan
 	2.
 	3.
 
@@ -381,9 +380,9 @@ Sprint 4	5/6 - 7/6
 7/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
-	1.Kemarin saya mengedit desain slide
-	2.Hari ini saya lanjut mengedit slide nya
-	3.Tidak ada Kendala
+	1.Hari ini saya lanjut mengedit slide nya
+	2.
+	3.
 
 
 `Suwardy (12.111.0383) :

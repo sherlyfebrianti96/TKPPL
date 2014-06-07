@@ -381,7 +381,7 @@ Sprint 4	5/6 - 7/6
 ~~~~
 `Sherly Febrianti (12.111.0120) :
 	1.Hari ini saya lanjut mengedit slide nya
-	2.
+	2.Tidak ada kendala
 	3.
 
 
@@ -398,8 +398,8 @@ Sprint 4	5/6 - 7/6
 
 
 `Katarina Y.V Zebua (12.111.0146) :
-	1.
-	2.
+	1.Edit slide Hard Driver
+	2.Kendala pada grunt server
 	3.
 
 
